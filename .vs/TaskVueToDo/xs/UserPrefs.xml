@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{E488429B-BC4F-4268-92E6-99DCD1DD00D0}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskVueToDo/app.config">
+    <Files>
+      <File FileName="TaskVueToDo/Steps/Vue.feature" Line="274" Column="10" />
+      <File FileName="TaskVueToDo/PageObjects/VuePage.cs" Line="81" Column="85" />
+      <File FileName="TaskVueToDo/Steps/VueSteps.cs" Line="161" Column="81" />
+      <File FileName="TaskVueToDo/PageObjects/Components/RowToDo.cs" Line="43" Column="14" />
+      <File FileName="TaskVueToDo/Helpers/Extentions.cs" Line="126" Column="84" />
+      <File FileName="TaskVueToDo/Helpers/Get.cs" Line="47" Column="26" />
+      <File FileName="TaskVueToDo/app.config" Line="6" Column="44" />
+      <File FileName="TaskVueToDo/BrowserDriver.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskVueToDo" expanded="True">
+            <Node name="TaskVueToDo" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="PageObjects" expanded="True">
+                <Node name="Components" expanded="True" />
+              </Node>
+              <Node name="Steps" expanded="True">
+                <Node name="Vue.feature" expanded="True" />
+              </Node>
+              <Node name="app.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TaskVueToDo" expanded="True">
+            <Node name="TaskVueToDo" expanded="True">
+              <Node name="TaskVueToDo.Steps" expanded="True">
+                <Node name="ToDoWorkflowFeature" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaskVueToDo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
