@@ -2,7 +2,6 @@
 using TechTalk.SpecFlow;
 using TaskVueToDo.PageObjects;
 using NUnit.Framework;
-using TaskVueToDo.Helpers;
 
 namespace TaskVueToDo.Steps
 {

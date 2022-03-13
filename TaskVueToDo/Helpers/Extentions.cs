@@ -42,7 +42,7 @@ namespace TaskVueToDo.Helpers
         /// </summary>
         /// <param name="driver">webDriver as extension</param>
         /// <param name="element">Selenium IWebelement to wait</param>
-        /// <returns>Returns wether the element exists or not</returns>
+        /// <returns>Returns whether the element exists or not</returns>
 
         public static bool WaitElementToExists(this IWebDriver driver, IWebElement element)
         {

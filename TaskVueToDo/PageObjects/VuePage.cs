@@ -73,7 +73,7 @@ namespace TaskVueToDo.PageObjects
 
         public void NavigateToHomePage()
         {
-            Driver.Navigate().GoToUrl(ConfigurationManager.AppSettings["Engage.Url"]);
+            Driver.Navigate().GoToUrl(ConfigurationManager.AppSettings["Url"]);
             Driver.WaitForElementVisible(ToDoField);
         }
 

@@ -1,28 +1,30 @@
 ﻿<Properties StartupConfiguration="{E488429B-BC4F-4268-92E6-99DCD1DD00D0}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskVueToDo/app.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskVueToDo/Helpers/Get.cs">
     <Files>
-      <File FileName="TaskVueToDo/Steps/Vue.feature" Line="274" Column="10" />
-      <File FileName="TaskVueToDo/PageObjects/VuePage.cs" Line="81" Column="85" />
-      <File FileName="TaskVueToDo/Steps/VueSteps.cs" Line="161" Column="81" />
-      <File FileName="TaskVueToDo/PageObjects/Components/RowToDo.cs" Line="43" Column="14" />
-      <File FileName="TaskVueToDo/Helpers/Extentions.cs" Line="126" Column="84" />
-      <File FileName="TaskVueToDo/Helpers/Get.cs" Line="47" Column="26" />
-      <File FileName="TaskVueToDo/app.config" Line="6" Column="44" />
+      <File FileName="TaskVueToDo/Steps/Vue.feature" Line="253" Column="45" />
+      <File FileName="TaskVueToDo/PageObjects/VuePage.cs" Line="76" Column="73" />
+      <File FileName="TaskVueToDo/Steps/VueSteps.cs" Line="4" Column="23" />
+      <File FileName="TaskVueToDo/PageObjects/Components/RowToDo.cs" Line="1" Column="14" />
+      <File FileName="TaskVueToDo/Helpers/Extentions.cs" Line="1" Column="14" />
+      <File FileName="TaskVueToDo/Helpers/Get.cs" Line="26" Column="28" />
+      <File FileName="TaskVueToDo/app.config" Line="4" Column="15" />
       <File FileName="TaskVueToDo/BrowserDriver.cs" Line="1" Column="1" />
+      <File FileName="TaskVueToDo/Steps/Vue.feature.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TaskVueToDo" expanded="True">
             <Node name="TaskVueToDo" expanded="True">
-              <Node name="Helpers" expanded="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Get.cs" selected="True" />
+              </Node>
               <Node name="PageObjects" expanded="True">
                 <Node name="Components" expanded="True" />
               </Node>
               <Node name="Steps" expanded="True">
                 <Node name="Vue.feature" expanded="True" />
               </Node>
-              <Node name="app.config" selected="True" />
             </Node>
           </Node>
         </State>
@@ -32,7 +34,9 @@
           <Node name="TaskVueToDo" expanded="True">
             <Node name="TaskVueToDo" expanded="True">
               <Node name="TaskVueToDo.Steps" expanded="True">
-                <Node name="ToDoWorkflowFeature" expanded="True" selected="True" />
+                <Node name="ToDoWorkflowFeature" expanded="True">
+                  <Node name="AddNewToDo" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
